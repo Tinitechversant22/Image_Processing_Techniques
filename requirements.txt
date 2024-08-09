@@ -1,0 +1,5 @@
+matplotlib==3.9.1.post1
+opencv-python-headless==4.10.0.84
+pip==24.1.2
+setuptools==70.3.0
+wheel==0.43.0
